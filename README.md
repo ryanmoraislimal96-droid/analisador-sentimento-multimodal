@@ -19,3 +19,4 @@ O bot utiliza o conceito de **Multimodalidade**, integrando Processamento de Lin
 ## 👨‍💻 Autor
 **Ryan Morais Lima** Estudante de Inteligência Artificial - Faculdade FAMA.  
 Focado em desenvolver soluções inteligentes para otimização de processos e experiência do usuário.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Rg2k6X9VdT-PjF7V8rbvLVHHqWT-j_T?usp=sharing)
